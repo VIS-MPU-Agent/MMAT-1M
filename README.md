@@ -10,8 +10,6 @@
 
 MMAT-1M is a new million-scale multimodal agent tuning dataset designed to unlock the full potential of multimodal large language models in Chain-of-Thought (CoT) reasoning, reflection, and dynamic tool utilization. Unlike the current lack of large-scale, high-quality agent tuning resources in the multimodal domain, MMAT-1M is constructed through a novel four-stage data engine: first, curating publicly available multimodal datasets with question-answer pairs; second, leveraging GPT-4o to generate rationales for these pairs and dynamically integrate API calls and Retrieval Augmented Generation (RAG) information via a multi-turn paradigm; third, refining rationales through reflection to ensure logical consistency and accuracy, forming a multi-turn dialogue dataset with both Rationale and Reflection (RR); finally, optionally compressing multi-turn dialogues into a One-turn Rationale and Reflection format (ORR) for efficiency. 
 
-Fine-tuning open-source multimodal models on MMAT-1M yields significant performance gains: for example, the InternVL2.5-8B-RR model achieves an average 2.7% improvement across eight public benchmarks and an 8.8% gain on the RAG benchmark Dyn-VQA. These results demonstrate the dataset’s effectiveness in enhancing multimodal reasoning and tool-based capabilities. The code and dataset will be publicly available to support reproducibility and further research in the field.
-
 ![Alt text](mmat-pipeline.png)
 
 
