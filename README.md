@@ -47,7 +47,7 @@ The MMAT-1M team:
 **BibTeX:**
 ```bibtex
 @inproceedings{Gao2025MMAT1M,
-  title={MMMU: A Large Reasoning Dataset for Multimodal Agent Tuning},
+  title={MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning},
   author={Tianhong Gao and Yannian Fu and Weiqun Wu and Haixiao Yue and Shanshan Liu and Gang Zhang},
   booktitle={Proceedings of ICCV},
   year={2025},
