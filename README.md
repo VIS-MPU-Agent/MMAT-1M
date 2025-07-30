@@ -1,9 +1,10 @@
-# MMAT-1M
+# MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning
 
 [**🌐 Homepage**](https://MMAT-1M.github.io/) | | [**🤗 MMAT-1M**](https://huggingface.co/datasets/VIS-MPU-Agent/MMAT-1M) | [**📖 MMAT-1M arXiv**](https://arxiv.org/abs/2507.21924)
 
 ## Update
 - [2025-07-30] The MMAT-1M arXiv paper has been updated.
+- [2025-07-24] Our paper titleed "**A Large Reasoning Dataset for Multimodal Agent Tuning**" has been accepted by **ICCV 2025**! 🎉
 - [2025-07-17] The MMAT-1M dataset, a million-scale multimodal agent tuning dataset, has been released!🔥 😆
   
 ## Introduction
